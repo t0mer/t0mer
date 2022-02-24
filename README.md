@@ -1,12 +1,6 @@
 <p align="left">
   <h1 align="left">Hi, I'm Tomer Klein
-    <a href="https://twitter.com/intent/follow?screen_name=tomerklein" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-@tomerklein?style=flat-square&logo=twitter&labelColor=white" alt="twitter"/>
-    </a>
-    
-    <a href="https://discordapp.com/users/507656855770628115/" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-tklein-7289DA?style=flat-square&logo=discord&logoColor=2C2F33" alt="discord" />
-    </a>
+  
   </h1>
 </p>
 
