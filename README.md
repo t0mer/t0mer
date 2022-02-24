@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 
 <p align="left">
   <h1 align="left">Hi, I'm Tomer Klein
