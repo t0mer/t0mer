@@ -4,7 +4,7 @@
       <img align="center" src="https://img.shields.io/badge/-@tomerklein?style=flat-square&logo=twitter&labelColor=white" alt="twitter"/>
     </a>
     <a href="https://www.linkedin.com/in/tomer-klein-4bb8ab24" target="blank">
-      <img align="center" src="https://img.shields.io/badge/-tomer-klein-4bb8ab24?style=flat-square&logo=linkedin" alt="linkedin"/>
+      <img align="center" src="https://img.shields.io/badge/-tomer-klein-7289DA?style=flat-square&logo=linkedin" alt="linkedin"/>
     </a>
     <a href="https://discordapp.com/users/507656855770628115/" target="blank">
       <img align="center" src="https://img.shields.io/badge/-tklein-7289DA?style=flat-square&logo=discord&logoColor=2C2F33" alt="discord" />
