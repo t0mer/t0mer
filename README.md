@@ -10,8 +10,15 @@
  ------------- | ------------- 
 
 
-![Broadlink Manager](https://github-readme-stats.vercel.app/api/pin/?username=t0mer&repo=broadlinkmanager-docker&theme=blueberry)|![Red Alert](https://github-readme-stats.vercel.app/api/pin/?username=t0mer&repo=redalert&theme=blueberry)|
+<details>
+  <summary markdown="span">Take a look at my top repos</summary>
+
+  ![Broadlink Manager](https://github-readme-stats.vercel.app/api/pin/?username=t0mer&repo=broadlinkmanager-docker&theme=blueberry)|![Red Alert](https://github-readme-stats.vercel.app/api/pin/?username=t0mer&repo=redalert&theme=blueberry)|
  ------------- | ------------- 
+</details>
+
+
+
 
 
 
