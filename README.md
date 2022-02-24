@@ -9,4 +9,3 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact)
