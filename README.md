@@ -35,6 +35,7 @@
     <img alt="" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/Traefik-%23009639.svg?style=flat-square&logo=traefik&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Traefik-%23009639.svg?style=flat-square&logo=traefik_mesh&logoColor=white" />
   </p>
 
 
