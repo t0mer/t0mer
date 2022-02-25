@@ -85,5 +85,54 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Botvid-19?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Botvid-19?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/dockerbot"><b>Dockerbot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/dockerbot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/dockerbot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/dockerbot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/dockerbot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/RedAlertop"><b>RedAlertop</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/Redalert"><b>Redalert</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/DnsTester"><b>DnsTester</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/ttsbot"><b>ttsbot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/ttsbot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/ttsbot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/ttsbot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/ttsbot?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/ocr-docker"><b>OCR docker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/gotenberg-ui"><b>Gotenberg ui</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
