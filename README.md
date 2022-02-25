@@ -5,7 +5,16 @@
   </h1>
 </p>
 
-### Let's see how I did this year:
+
+<h3>Things I code with</h3>
+  <p>
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  </p>
+
+<h3>Let's see how I did this year:</h3>
 |![Github stats](https://github-readme-stats.vercel.app/api?username=t0mer&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
 
