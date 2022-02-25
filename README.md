@@ -34,8 +34,8 @@
     <img alt="" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi" />
     <img alt="" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/Traefik-%23009639.svg?style=flat-square&logo=traefik&logoColor=white" />
-    <img alt="" src="https://img.shields.io/badge/Traefik-%23009639.svg?style=flat-square&logo=traefik_mesh&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Traefik-%23009639.svg?style=flat-square&logo=Traefik-Mesh&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Mosquitto-%23009639.svg?style=flat-square&logo=Eclipse_Mosquitto&logoColor=white" />
   </p>
 
 
