@@ -138,28 +138,12 @@
       <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/dockerbot?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/t0mer/RedAlertop"><b>RedAlertop</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/RedAlertop?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/t0mer/Redalert"><b>Redalert</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/redalert?style=flat-square&logo=docker"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/t0mer/DnsTester"><b>DnsTester</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/DnsTester?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/ttsbot"><b>ttsbot</b></a></td>
