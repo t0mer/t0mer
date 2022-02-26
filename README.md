@@ -79,7 +79,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/apprise-api-bridge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/apprise-api-bridge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/apprise-api-bridge?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/apprise-api-bridge?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/deepstack-trainer"><b>Deepstack Trainer</b></a></td>
@@ -87,7 +87,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/deepstack-trainer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/deepstack-trainer?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/deepstack-trainer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/deepstack-trainer?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/DeCompose"><b>DeCompose</b></a></td>
@@ -95,7 +95,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/DeCompose?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/DeCompose?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/DeCompose?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/decompose?style=flat-square&logo=docker"/></td>
     </tr>
         <tr>
       <td><a href="https://github.com/t0mer/Xiaomi-Token-Extractor"><b>Xiaomi Token Extractor</b></a></td>
@@ -103,7 +103,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Xiaomi-Token-Extractor?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Xiaomi-Token-Extractor?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Xiaomi-Token-Extractor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/xiaomi_token_extractor?style=flat-square&logo=docker"/></td>
     </tr>
      <tr>
       <td><a href="https://github.com/t0mer/Arpspoof-Docker"><b>Arpspoof Docker</b></a></td>
@@ -111,7 +111,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Arpspoof-Docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Arpspoof-Docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Arpspoof-Docker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/arpspoof-docker?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/HAvid-19"><b>HAvid-19</b></a></td>
@@ -119,7 +119,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/HAvid-19?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/HAvid-19?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/HAvid-19?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/havid-19?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/Botvid-19"><b>Botvid-19</b></a></td>
@@ -127,7 +127,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Botvid-19?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Botvid-19?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Botvid-19?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/botvid-19?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/dockerbot"><b>Dockerbot</b></a></td>
@@ -135,7 +135,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/dockerbot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/dockerbot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/dockerbot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/dockerbot?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/RedAlertop"><b>RedAlertop</b></a></td>
@@ -151,7 +151,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Redalert?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/redalert?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/DnsTester"><b>DnsTester</b></a></td>
@@ -167,7 +167,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/ttsbot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/ttsbot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/ttsbot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/ttsbot?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/ocr-docker"><b>OCR docker</b></a></td>
@@ -175,7 +175,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/ocr-docker?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/t0mer/gotenberg-ui"><b>Gotenberg ui</b></a></td>
@@ -183,7 +183,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="" src=""/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/gotenbergui?style=flat-square&logo=docker"/></td>
     </tr>
   </tbody>
 </table>
