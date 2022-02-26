@@ -53,7 +53,7 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
-      <td>Container Pulls</td>
+      <td><b>Container Pulls</b></td>
     </tr>
   </thead>
   <tbody>
