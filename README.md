@@ -38,8 +38,6 @@
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
 
-
-
 ### Enviroment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -49,12 +47,13 @@
   ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
+### IoT
+  ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats.vercel.app/api?username=t0mer&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
-
-
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=t0mer&theme=onedark&title=Stars,MultiLanguage,Followers,Repositories,Commits) -->
 
 ## Open source projects
 <table>
