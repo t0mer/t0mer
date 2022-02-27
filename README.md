@@ -1,10 +1,16 @@
 
-<p align="left">
-  <h1 align="left">Hi, I'm Tomer Klein
-  
-  </h1>
-</p>
+# Hi, I'm Tomer Klein
 
+## I'm a Fullstack developer, IT Manager and DevOps engineer
+* 🔭 I’m currently working on my Portfolio Website 😁
+* 🌱 I’m currently learning Kubernetes and Flatter.
+* 🐳 I'm currently working on developing Docker containers 😁
+* 🏠 I Love to contribute to Home automation projects 😁
+* 🤖 I Love electronics and DIY projects 😁
+* 🥅 2022 Goals: Contribute to Open Source projects
+* 💬 Ask me about anything, I am happy to help 😄
+* 🧗 I try to: Go beyond and push the bounds
+* ⚡ Fun fact: I love connecting with different people 🙌 
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomer.klein@gmail.com)
