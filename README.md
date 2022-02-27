@@ -4,8 +4,8 @@
 ## I'm a Fullstack developer, IT Manager and DevOps engineer
 * 🌱 I’m currently learning Kubernetes and Flatter.
 * 🐳 I'm currently working on developing Docker containers 😁
-* 🏠 I Love to contribute to Home automation projects 😁
-* 🤖 I Love electronics and DIY projects 😁
+* 🏠 I love to contribute to Home automation projects 😁
+* 🤖 I love electronics and DIY projects 😁
 * 🥅 2022 Goals: Contribute to Open Source projects
 * 💬 Ask me about anything, I am happy to help 😄
 * 🧗 I try to: Go beyond and push the bounds
