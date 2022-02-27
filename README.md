@@ -2,7 +2,6 @@
 # Hi, I'm Tomer Klein
 
 ## I'm a Fullstack developer, IT Manager and DevOps engineer
-* 🔭 I’m currently working on my Portfolio Website 😁
 * 🌱 I’m currently learning Kubernetes and Flatter.
 * 🐳 I'm currently working on developing Docker containers 😁
 * 🏠 I Love to contribute to Home automation projects 😁
