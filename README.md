@@ -18,6 +18,8 @@
  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+ ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
  
    
 ### Infrastructure and DevOps
@@ -26,6 +28,8 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft-sql-server)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
   ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
 
