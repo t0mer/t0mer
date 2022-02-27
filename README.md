@@ -43,7 +43,7 @@
 |![Github stats](https://github-readme-stats.vercel.app/api?username=t0mer&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
 
-[trophy](https://github-profile-trophy.vercel.app/?username=t0mer&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=t0mer&theme=onedark)
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
