@@ -47,7 +47,7 @@
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=t0mer&theme=onedark&title=Stars,MultiLanguage,Followers,Repositories,Commits) -->
 
-<h3>Open source projects</h3>
+## Open source projects
 <table>
   <thead align="center">
     <tr border: none;>
