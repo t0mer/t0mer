@@ -21,7 +21,7 @@
 
 
 
-## Tech Knowdledge
+## Tech Knowledge
 
 ### Languages
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
