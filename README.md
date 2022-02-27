@@ -13,6 +13,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
   
 ### Libraries and Frameworks
  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
@@ -20,7 +21,6 @@
  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
- 
    
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -33,13 +33,18 @@
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
   ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
+  ![Apache](https://img.shields.io/badge/-Apache%20DevOps-333333?style=flat&logo=apache)
+  ![Nginx](https://img.shields.io/badge/-Nginx%20DevOps-333333?style=flat&logo=nginx)
+  
 
 ### Enviroment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
-
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu%2011-333333?style=flat&logo=ubuntu)
+  ![Centos](https://img.shields.io/badge/-Centos%2011-333333?style=flat&logo=centos)
+  ![Debian](https://img.shields.io/badge/-Debian%2011-333333?style=flat&logo=debian)
 
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats.vercel.app/api?username=t0mer&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
