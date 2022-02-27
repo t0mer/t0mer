@@ -36,6 +36,7 @@
   ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+  ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=Traefik)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
 
 ### Enviroment, IDEs and Tools
@@ -50,6 +51,9 @@
 ### IoT
   ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+  ![LoRa](https://img.shields.io/badge/-LoRa-333333?style=flat&logo=LoRa)
+  ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=MQTT)
+  ![ESP](https://img.shields.io/badge/-ESP-333333?style=flat&logo=ESP)
 
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats.vercel.app/api?username=t0mer&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
