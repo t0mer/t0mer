@@ -21,6 +21,7 @@
  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+ ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)
    
 ### Infrastructure and DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -33,8 +34,10 @@
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=F90)
   ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-  ![Apache](https://img.shields.io/badge/-Apache%20DevOps-333333?style=flat&logo=apache)
-  ![Nginx](https://img.shields.io/badge/-Nginx%20DevOps-333333?style=flat&logo=nginx)
+  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
+
 
 
 ### Enviroment, IDEs and Tools
