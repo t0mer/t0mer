@@ -63,6 +63,12 @@
   ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
+### Firewall and WAF
+  ![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
+  ![Sophos](https://img.shields.io/badge/-Sophos-333333?style=flat&)
+  ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&)
+  ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&)
+
 ### IoT
   ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
