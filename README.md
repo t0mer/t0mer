@@ -18,9 +18,6 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/507656855770628115/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tomerklein)
 
-
-
-
 ## Tech Knowledge
 
 ### Languages
@@ -29,6 +26,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+  ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
   
 ### Libraries and Frameworks
  ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
@@ -63,11 +62,13 @@
   ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
-### Firewall and WAF
+### Firewall, WAF and Security tools
   ![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
   ![Sophos](https://img.shields.io/badge/-Sophos-333333?style=flat&)
   ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&)
   ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&)
+  ![SolarWinds Siem](https://img.shields.io/badge/-SolarWinds%20Siem-333333?style=flat&)
+  ![Mcafee DLP](https://img.shields.io/badge/-Mcafee%20DLP-333333?style=flat&)
 
 ### IoT
   ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
