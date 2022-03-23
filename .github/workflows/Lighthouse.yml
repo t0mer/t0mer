@@ -12,6 +12,7 @@ jobs:
       with:
         outputDirectory: ${{ github.workspace }}/tmp/artifacts
         urls: 'https://techblog.co.il,https://www.dockeril.net,https://en.techblog.co.il'
+        slackWebhookUrl: ${{ secrets.LIGHTHOUSE_CHECK_WEBHOOK_URL }}
     - name: Upload artifacts
       uses: actions/upload-artifact@master
       with:
