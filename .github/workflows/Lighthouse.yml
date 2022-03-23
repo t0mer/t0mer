@@ -11,7 +11,7 @@ jobs:
       uses: foo-software/lighthouse-check-action@master
       with:
         outputDirectory: ${{ github.workspace }}/tmp/artifacts
-        urls: 'https://techblog.co.il,https://www.www.dockeril.net,https://en.techblog.co.il'
+        urls: 'https://techblog.co.il,https://www.dockeril.net,https://en.techblog.co.il'
     - name: Upload artifacts
       uses: actions/upload-artifact@master
       with:
