@@ -1,4 +1,4 @@
-name: Lighthouse
+name: Lighthouse-desktop
 #on: [pull_request]
 on: workflow_dispatch
 jobs:
