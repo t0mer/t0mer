@@ -1,7 +1,7 @@
 
 # Hi, I'm Tomer Klein
 
-## I'm a Fullstack developer, IT Manager and DevOps engineer
+## I'm a Fullstack developer, IT Manager, DevOps engineer and IoT domain lead
 * 🌱 I’m currently learning Kubernetes and Flutter.
 * 🐳 I'm currently working on developing Docker containers 😁
 * 🏠 I love to contribute to Home automation projects 😁
