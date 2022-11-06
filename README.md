@@ -134,7 +134,31 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/DeCompose?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/decompose?style=flat-square&logo=docker"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/t0mer/Wazy"><b>Wazy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/Wazy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Wazy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/Wazy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/Wazy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/wazy?style=flat-square&logo=docker"/></td>
+    </tr>
         <tr>
+      <td><a href="https://github.com/t0mer/voicy"><b>voicy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/voicy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/voicy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/voicy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/voicy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/voicy?style=flat-square&logo=docker"/></td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/t0mer/certi"><b>certi</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/certi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/certi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/certi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/t0mer/certi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/certi?style=flat-square&logo=docker"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/t0mer/Xiaomi-Token-Extractor"><b>Xiaomi Token Extractor</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/Xiaomi-Token-Extractor?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/Xiaomi-Token-Extractor?style=flat-square&labelColor=343b41"/></td>
