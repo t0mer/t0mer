@@ -76,7 +76,7 @@
   ![LoRa](https://img.shields.io/badge/-LoRa-333333?style=flat&logo=LoRa)
   ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=MQTT)
   ![ESP](https://img.shields.io/badge/-ESP-333333?style=flat&logo=ESP)
-  ![Chirpstack](https://img.shields.io/badge/-ESP-333333?style=flat&logo=Chirpstack)
+  ![Chirpstack](https://img.shields.io/badge/-Chirpstack-333333?style=flat&logo=Chirpstack)
 
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats.vercel.app/api?username=t0mer&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
