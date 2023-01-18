@@ -6,7 +6,7 @@
 * 🐳 I'm currently working on developing Docker containers 😁
 * 🏠 I love to contribute to Home automation projects 😁
 * 🤖 I love electronics and DIY projects 😁
-* 🥅 2022 Goals: Contribute to Open Source projects
+* 🥅 2023 Goals: Contribute to Open Source projects
 * 💬 Ask me about anything, I am happy to help 😄
 * 🧗 I try to: Go beyond and push the bounds
 * ⚡ Fun fact: I love connecting with different people 🙌 
