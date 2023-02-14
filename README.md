@@ -252,7 +252,4 @@
 
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=t0mer/ims-custom-component,t0mer/broadlinkmanager-docker,t0mer/tts-stt,t0mer/locationsharing,t0mer/Wazy,t0mer/Redalert,t0mer/ofek-bot,t0mer/deepstack-trainer,t0mer/SafeUrl,t0mer/Arpspoof-Docker,t0mer/ttsbot,t0mer/Xiaomi-Token-Extractor,t0mer/HAvid-19,t0mer/ocr-docker&type=Date)](https://star-history.com/#t0mer/ims-custom-component&t0mer/broadlinkmanager-docker&t0mer/tts-stt&t0mer/locationsharing&t0mer/Wazy&t0mer/Redalert&t0mer/ofek-bot&t0mer/deepstack-trainer&t0mer/SafeUrl&t0mer/Arpspoof-Docker&t0mer/ttsbot&t0mer/Xiaomi-Token-Extractor&t0mer/HAvid-19&t0mer/ocr-docker&Date)
 
