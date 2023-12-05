@@ -4,11 +4,10 @@
 👋 I'm a passionate C#/Python developer with a knack for IoT innovations and a fervent love for open source projects. I thrive on turning smart home dreams into reality, weaving technology into everyday life.
 🌟 My journey involves not just writing code but creating experiences. I believe in the transformative power of technology to improve our lives and I'm on a mission to make it happen.
 
-* 🌱 I’m currently learning Kubernetes and Flutter.
 * 🐳 I'm currently working on developing Docker containers 😁
 * 🏠 I love to contribute to Home automation projects 😁
 * 🤖 I love electronics and DIY projects 😁
-* 🥅 2023 Goals: Contribute to Open Source projects
+* 🥅 2024 Goals: Enter to the AWS Heros list
 * 💬 Ask me about anything, I am happy to help 😄
 * 🧗 I try to: Go beyond and push the bounds
 * ⚡ Fun fact: I love connecting with different people 🙌 
