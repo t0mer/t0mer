@@ -12,6 +12,8 @@
 * 🧗 I try to: Go beyond and push the bounds
 * ⚡ Fun fact: I love connecting with different people 🙌 
 
+![](https://komarev.com/ghpvc/?username=t0mer&abbreviated=true)
+
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomer.klein@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/tomer.klein)
