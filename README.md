@@ -1,6 +1,6 @@
 
 # Hi, I'm Tomer Klein
-![](https://komarev.com/ghpvc/?username=t0mer&abbreviated=true)
+
 👋 I'm a passionate C#/Python developer with a knack for IoT innovations and a fervent love for open source projects. I thrive on turning smart home dreams into reality, weaving technology into everyday life.
 🌟 My journey involves not just writing code but creating experiences. I believe in the transformative power of technology to improve our lives and I'm on a mission to make it happen.
 
