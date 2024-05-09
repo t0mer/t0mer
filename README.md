@@ -86,6 +86,9 @@
 |![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=t0mer&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Open source projects
 <table>
   <thead align="center">
