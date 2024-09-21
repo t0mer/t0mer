@@ -84,7 +84,7 @@
   ![ESP](https://img.shields.io/badge/-ESP-333333?style=flat&logo=ESP)
   ![Chirpstack](https://img.shields.io/badge/-Chirpstack-333333?style=flat&logo=Chirpstack)
   ![Thingsboard](https://img.shields.io/badge/-Thingsboard-333333?style=flat&logo=Chirpstack)
-  ![AWS Iot Core](https://img.shields.io/badge/-AWS Iot Core-333333?style=flat&logo=Chirpstack)
+  ![AWS Iot Core](https://img.shields.io/badge/-AWS%20Iot%20Core-333333?style=flat&logo=Chirpstack)
 
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=t0mer&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
