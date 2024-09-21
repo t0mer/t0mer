@@ -73,6 +73,8 @@
   ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&)
   ![SolarWinds Siem](https://img.shields.io/badge/-SolarWinds%20Siem-333333?style=flat&)
   ![Mcafee DLP](https://img.shields.io/badge/-Mcafee%20DLP-333333?style=flat&)
+  ![Safeline WAF](https://img.shields.io/badge/-Safeline-333333?style=flat&)
+  
 
 ### IoT
   ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
@@ -81,6 +83,8 @@
   ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=MQTT)
   ![ESP](https://img.shields.io/badge/-ESP-333333?style=flat&logo=ESP)
   ![Chirpstack](https://img.shields.io/badge/-Chirpstack-333333?style=flat&logo=Chirpstack)
+  ![Thingsboard](https://img.shields.io/badge/-Thingsboard-333333?style=flat&logo=Chirpstack)
+  ![AWS Iot Core](https://img.shields.io/badge/-AWS Iot Core-333333?style=flat&logo=Chirpstack)
 
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=t0mer&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
