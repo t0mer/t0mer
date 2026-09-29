@@ -2,12 +2,13 @@
 # Hi, I'm Tomer Klein
 
 👋 I'm a passionate C#/Python developer with a knack for IoT innovations and a fervent love for open source projects. I thrive on turning smart home dreams into reality, weaving technology into everyday life.
+
 🌟 My journey involves not just writing code but creating experiences. I believe in the transformative power of technology to improve our lives and I'm on a mission to make it happen.
 
 * 🐳 I'm currently working on developing Docker containers 😁
-* 🏠 I love to contribute to Home automation projects 😁
+* 🏠 I love to contribute to home automation projects 😁
 * 🤖 I love electronics and DIY projects 😁
-* 🥅 2024 Goals: Enter to the AWS Heros list
+* 🥅 2024 Goals: Join the AWS Heroes list
 * 💬 Ask me about anything, I am happy to help 😄
 * 🧗 I try to: Go beyond and push the bounds
 * ⚡ Fun fact: I love connecting with different people 🙌 
@@ -28,9 +29,12 @@
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp&logoColor=7e10cc)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=cplusplus)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-  ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
   
 ### Libraries and Frameworks
@@ -57,37 +61,37 @@
   ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=Traefik)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
 
-### Enviroment, IDEs and Tools
+### Environment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-  ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
+  ![CentOS](https://img.shields.io/badge/-CentOS-333333?style=flat&logo=centos)
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 
-### Firewall, WAF and Security tools
-  ![Checkpoint](https://img.shields.io/badge/-Checkpoint-333333?style=flat&)
+### Firewall, WAF and Security Tools
+  ![Check Point](https://img.shields.io/badge/-Check%20Point-333333?style=flat&)
   ![Sophos](https://img.shields.io/badge/-Sophos-333333?style=flat&)
-  ![Fortigate](https://img.shields.io/badge/-Fortigate-333333?style=flat&)
-  ![F5BigIP](https://img.shields.io/badge/-F5%20Big%20IP-333333?style=flat&)
-  ![SolarWinds Siem](https://img.shields.io/badge/-SolarWinds%20Siem-333333?style=flat&)
-  ![Mcafee DLP](https://img.shields.io/badge/-Mcafee%20DLP-333333?style=flat&)
+  ![FortiGate](https://img.shields.io/badge/-FortiGate-333333?style=flat&)
+  ![F5 BIG-IP](https://img.shields.io/badge/-F5%20BIG--IP-333333?style=flat&)
+  ![SolarWinds SIEM](https://img.shields.io/badge/-SolarWinds%20SIEM-333333?style=flat&)
+  ![McAfee DLP](https://img.shields.io/badge/-McAfee%20DLP-333333?style=flat&)
   ![Safeline WAF](https://img.shields.io/badge/-Safeline-333333?style=flat&)
   
 
 ### IoT
-  ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
   ![LoRa](https://img.shields.io/badge/-LoRa-333333?style=flat&logo=LoRa)
   ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=MQTT)
   ![ESP](https://img.shields.io/badge/-ESP-333333?style=flat&logo=ESP)
-  ![Chirpstack](https://img.shields.io/badge/-Chirpstack-333333?style=flat&logo=Chirpstack)
-  ![Thingsboard](https://img.shields.io/badge/-Thingsboard-333333?style=flat&logo=Chirpstack)
-  ![AWS Iot Core](https://img.shields.io/badge/-AWS%20Iot%20Core-333333?style=flat&logo=Chirpstack)
+  ![ChirpStack](https://img.shields.io/badge/-ChirpStack-333333?style=flat&logo=Chirpstack)
+  ![ThingsBoard](https://img.shields.io/badge/-ThingsBoard-333333?style=flat&logo=Chirpstack)
+  ![AWS IoT Core](https://img.shields.io/badge/-AWS%20IoT%20Core-333333?style=flat&logo=Chirpstack)
 
 ## Let's see how I did this year:
-|![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=t0mer&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
+|![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=t0mer&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
 
 
@@ -96,7 +100,7 @@
 ## Open source projects
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
@@ -107,7 +111,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/t0mer/broadlinkmanager-docker"><b>Broadlink Manager docker</b></a></td>
+      <td><a href="https://github.com/t0mer/broadlinkmanager-docker"><b>Broadlink Manager Docker</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/broadlinkmanager-docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/broadlinkmanager-docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/broadlinkmanager-docker?style=flat-square&labelColor=343b41"/></td>
@@ -235,7 +239,7 @@
       <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/ttsbot?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/t0mer/ocr-docker"><b>OCR docker</b></a></td>
+      <td><a href="https://github.com/t0mer/ocr-docker"><b>OCR Docker</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/ocr-docker?style=flat-square&labelColor=343b41"/></td>
@@ -243,7 +247,7 @@
       <td><img alt="" src="https://img.shields.io/docker/pulls/techblog/ocr-docker?style=flat-square&logo=docker"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/t0mer/gotenberg-ui"><b>Gotenberg ui</b></a></td>
+      <td><a href="https://github.com/t0mer/gotenberg-ui"><b>Gotenberg UI</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/t0mer/gotenberg-ui?style=flat-square&labelColor=343b41"/></td>
