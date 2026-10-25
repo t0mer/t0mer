@@ -8,7 +8,7 @@
 * 🐳 I'm currently working on developing Docker containers 😁
 * 🏠 I love to contribute to home automation projects 😁
 * 🤖 I love electronics and DIY projects 😁
-* 🥅 2024 Goals: Join the AWS Heroes list
+* 🥅 2026 Goals: Join the Cloudflare Heroes list
 * 💬 Ask me about anything, I am happy to help 😄
 * 🧗 I try to: Go beyond and push the bounds
 * ⚡ Fun fact: I love connecting with different people 🙌 
