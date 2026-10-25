@@ -60,6 +60,8 @@
   ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
   ![Traefik](https://img.shields.io/badge/-Traefik-333333?style=flat&logo=Traefik)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
+  ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-333333?style=flat&logo=cloudflare)
+  ![Cloudflare Zero Trust](https://img.shields.io/badge/-Cloudflare%20Zero%20Trust-333333?style=flat&logo=cloudflare)
 
 ### Environment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
