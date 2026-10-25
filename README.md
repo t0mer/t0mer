@@ -93,7 +93,7 @@
   ![AWS IoT Core](https://img.shields.io/badge/-AWS%20IoT%20Core-333333?style=flat&logo=Chirpstack)
 
 ## Let's see how I did this year:
-|![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=t0mer&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
+|![GitHub stats](https://github-readme-stats.vercel.app/api?username=t0mer&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t0mer&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
 
 
