@@ -97,7 +97,7 @@
 | ---------- | ----------|
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t0mer&theme=onedark)](https://github.com/t0mer/t0mer)
+[![trophy](https://github-trophies.vercel.app/?username=t0mer&theme=onedark)](https://github.com/t0mer/t0mer)
 
 ## Open source projects
 <table>
