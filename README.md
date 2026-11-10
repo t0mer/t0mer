@@ -15,6 +15,8 @@
 
 [![Tomer Klein profile views](https://u8views.com/api/v1/github/profiles/4478920/views/day-week-month-total-count.svg)](https://u8views.com/github/t0mer)
 
+[![GitRanks rank](https://gitranks.com/badge/user/t0mer/rank.svg)](https://gitranks.com/profile/t0mer)
+
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomer.klein@gmail.com)
