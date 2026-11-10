@@ -19,6 +19,10 @@
 
 [![t0mer on GitRanks: profile](https://gitranks.com/badge/user/t0mer/profile-card.svg)](https://gitranks.com/profile/t0mer)
 
+[![t0mer on GitRanks: Dockerfile rank #1,434 · of 38,583](https://gitranks.com/badge/user/t0mer/language-rank.svg)](https://gitranks.com/profile/t0mer)
+
+[![t0mer on GitRanks: gitranks Elite](https://gitranks.com/badge/user/t0mer/tier.svg)](https://gitranks.com/profile/t0mer)
+
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomer.klein@gmail.com)
