@@ -16,12 +16,10 @@
 [![Tomer Klein profile views](https://u8views.com/api/v1/github/profiles/4478920/views/day-week-month-total-count.svg)](https://u8views.com/github/t0mer)
 
 [![GitRanks rank](https://gitranks.com/badge/user/t0mer/rank.svg)](https://gitranks.com/profile/t0mer)
+[![t0mer on GitRanks: Dockerfile rank #1,434 · of 38,583](https://gitranks.com/badge/user/t0mer/language-rank.svg)](https://gitranks.com/profile/t0mer)
+[![t0mer on GitRanks: gitranks Elite](https://gitranks.com/badge/user/t0mer/tier.svg)](https://gitranks.com/profile/t0mer)
 
 [![t0mer on GitRanks: profile](https://gitranks.com/badge/user/t0mer/profile-card.svg)](https://gitranks.com/profile/t0mer)
-
-[![t0mer on GitRanks: Dockerfile rank #1,434 · of 38,583](https://gitranks.com/badge/user/t0mer/language-rank.svg)](https://gitranks.com/profile/t0mer)
-
-[![t0mer on GitRanks: gitranks Elite](https://gitranks.com/badge/user/t0mer/tier.svg)](https://gitranks.com/profile/t0mer)
 
 
 ## Connect with me
