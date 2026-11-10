@@ -17,6 +17,8 @@
 
 [![GitRanks rank](https://gitranks.com/badge/user/t0mer/rank.svg)](https://gitranks.com/profile/t0mer)
 
+[![t0mer on GitRanks: profile](https://gitranks.com/badge/user/t0mer/profile-card.svg)](https://gitranks.com/profile/t0mer)
+
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomer.klein@gmail.com)
